@@ -1,0 +1,31 @@
+.film-list {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.film-list h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.film-list .film {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #f5f5f5;
+}
+
+.film-list .film h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.film-list .film p {
+  margin-bottom: 5px;
+}
+
+.film-list .species {
+  margin-top: 10px;
+  padding-left: 20px;
+  border-left: 2px solid #ccc;
+}

@@ -1,0 +1,107 @@
+{
+  "tweets": [
+    {
+      "id": "1",
+      "body":"First tweet! This is a longer sentence that... This is an additional line of text. This is another line. And here's one more line for good measure.",
+      "date": "2023-06-25T10:00:00.000Z",
+      "markAsRead":true,
+      "Author": {
+        "id": "3",
+        "username": "Nithin Abraham",
+        "first_name": "Nithin",
+        "last_name": "Abraham",
+        "full_name": "Nithin Abraham",
+        "avatar_url": "https://clipart-library.com/new_gallery/335-3350454_twitter-logo-inside-a-gear-api-twitter.png"
+      },
+      "Stats": {
+        "views": 100,
+        "likes": 50,
+        "retweets": 10,
+        "responses": 5
+      }
+    },
+    {
+      "id": "2",
+      "body":   "Hello, GraphQL! This is another longer sentence... Here's an extra line. And another line. One more line. And the final line.",
+      "date": "2023-06-26T14:30:00.000Z",
+      "markAsRead":true,
+      "Author": {
+        "id": "2",
+        "username": "Bill Jonathan",
+        "first_name": "Bill",
+        "last_name": "Jonathan",
+        "full_name": "Bill Jonathan",
+        "avatar_url": "https://clipart-library.com/new_gallery/335-3350454_twitter-logo-inside-a-gear-api-twitter.png"
+      },
+      "Stats": {
+        "views": 200,
+        "likes": 100,
+        "retweets": 20,
+        "responses": 10
+      }
+    },
+    {
+      "id": "3",
+      "body":   "Having a great day! This is a third longer sentence... Line number two. Line number three. Line number four. Line number five!",
+      "date": "2023-06-27T09:45:00.000Z",
+      "markAsRead":true,
+      "Author": {
+        "id": "1",
+        "username": "Joel David",
+        "first_name": "Joel",
+        "last_name": "David",
+        "full_name": "Joel David",
+        "avatar_url": "https://clipart-library.com/new_gallery/335-3350454_twitter-logo-inside-a-gear-api-twitter.png"
+      },
+      "Stats": {
+        "views": 150,
+        "likes": 75,
+        "retweets": 15,
+        "responses": 7
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "Nithin Abraham",
+      "first_name": "Nithin",
+      "last_name": "Abraham",
+      "full_name": "Nithin Abraham",
+      "avatar_url": "https://clipart-library.com/new_gallery/335-3350454_twitter-logo-inside-a-gear-api-twitter.png"
+    },
+    {
+      "id": "2",
+      "username": "Joel David",
+      "first_name": "John",
+      "last_name": "David",
+      "full_name": "John David",
+      "avatar_url": "https://clipart-library.com/new_gallery/335-3350454_twitter-logo-inside-a-gear-api-twitter.png"
+    },
+    {
+      "id": "3",
+      "username": "Bill Jonathan",
+      "first_name": "Bill",
+      "last_name": "Jonathan",
+      "full_name": "Bill Jonathan",
+      "avatar_url": "https://clipart-library.com/new_gallery/335-3350454_twitter-logo-inside-a-gear-api-twitter.png"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "1",
+      "date": "2023-06-25T12:00:00.000Z",
+      "type": "message"
+    },
+    {
+      "id": "2",
+      "date": "2023-06-26T16:30:00.000Z",
+      "type": "like"
+    },
+    {
+      "id": "3",
+      "date": "2023-06-27T11:45:00.000Z",
+      "type": "retweet"
+    }
+  ]
+}
